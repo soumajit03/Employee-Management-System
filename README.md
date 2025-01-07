@@ -1,2 +1,2 @@
 # Employee Management System
- Developed by Soumajit Choudhury in VS Code
+ Developed by Shri Soumajit Choudhury in VS Code.
